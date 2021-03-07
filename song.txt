@@ -7,6 +7,3 @@ To fit right in
 I'm breathing in the
 chemicals
 
-git revert 
-pushed changes
---------------------
